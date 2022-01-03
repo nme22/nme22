@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="navfolio.vercel.app" width="22px"  src="https://code.iconify.design/2/2.1.0/iconify.min.js" />][website]
+[<img align="left" alt="navfolio.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nme_22 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Navid M Ebrahimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="navusss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,7 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vercel" width="26px" src="https://code.iconify.design/2/2.1.0/iconify.min.js" />
 
-<img align="left" alt="NextJS" width="26px" src="https://code.iconify.design/2/2.1.0/iconify.min.js" /> 
+<img align="left" alt="NextJS" width="26px" src="https://api.iconify.design/akar-icons/nextjs-fill.svg?color=white" title="Next.JS" /> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
