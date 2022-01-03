@@ -1,7 +1,7 @@
 ### Hi there, I'm Navid or "Nav" for short - aka [nme22][website] 👋
 
 [![Website](https://img.shields.io/website?label=navfolio.vercel&style=for-the-badge&url=https%3A%2F%2Fnavfolio.vercel.app)](https://navfolio.vercel.app/)
-[![Twitter Follow]<img align="left" alt="twitter icon" width="22px" src="https://code.iconify.design/2/2.1.0/iconify.min.js" />](https://twitter.com/nme_22)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nme22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nme_22)
 
 ## I'm a Iranian Jr. Developer
 
