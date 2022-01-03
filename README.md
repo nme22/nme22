@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning frameworks like Chakra, Tailwind, and Next.js 🤣
 - 👯 I’m looking to collaborate with other content creators and dabble in open source
 - 🥅 2022 Goals: Contribute more to Open Source projects and land my first job in tech!
-- ⚡ Fun fact: I love to play soccer, snowboard, and code/game
+- ⚡ Fun fact: I love to play soccer, snowboard, game, and code!
 
 ### Connect with me:
 
