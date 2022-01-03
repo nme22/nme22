@@ -42,6 +42,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nme22&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=dracula" />
 </h3>
 
+<br />
+
+![Commit graph](https://activity-graph.herokuapp.com/graph?username=nme22&bg_color=1F222E&color=ffaaaa&line=F85D7F&point=FFFFFF)
+
+<!--
+**nme22/nme22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 [website]: https://navfolio.vercel.app/
 [twitter]: https://twitter.com/nme_22
 [instagram]: https://instagram.com/navusss
