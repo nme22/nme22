@@ -13,7 +13,8 @@
 ### Connect with me:
 
 [<img align="left" alt="navfolio.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nme_22 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
+[<img align="left" alt="nme_22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
 [<img align="left" alt="Navid M Ebrahimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="navusss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -54,3 +55,4 @@
 [twitter]: https://twitter.com/nme_22
 [instagram]: https://instagram.com/navusss
 [linkedin]: https://www.linkedin.com/in/navid-ebrahimi-70b983204/
+[facebook]: https://www.facebook.com/navid.ebrahimi.10/
