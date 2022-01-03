@@ -1,7 +1,7 @@
 ### Hi there, I'm Navid or "Nav" for short - aka [nme22][website] 👋
 
-[![Website]<img align="left" alt="twitter icon" width="22px" ssrc="https://api.iconify.design/akar-icons/globe-fill.svg?color=white" />](https://navfolio.vercel.app/)
-[![Twitter Follow]<img align="left" alt="twitter icon" width="22px" ssrc="https://api.iconify.design/akar-icons/twitter-fill.svg?color=blue" />](https://twitter.com/nme_22)
+[![Website](https://img.shields.io/website?label=navfolio.vercel&style=for-the-badge&url=https%3A%2F%2Fnavfolio.vercel.app)](https://navfolio.vercel.app/)
+[![Twitter Follow]<img align="left" alt="twitter icon" width="22px" src="https://code.iconify.design/2/2.1.0/iconify.min.js" />](https://twitter.com/nme_22)
 
 ## I'm a Iranian Jr. Developer
 
@@ -32,7 +32,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vercel" width="26px" src="https://api.iconify.design/akar-icons/vercel-fill.svg?color=white"/>
-<img align="left" alt="Vercel" width="26px" src="https://api.iconify.design/akar-icons/chakra-fill.svg?color=teal"/>
+
 <img align="left" alt="NextJS" width="26px" src="https://api.iconify.design/akar-icons/nextjs-fill.svg?color=white"  /> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
