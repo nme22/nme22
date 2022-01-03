@@ -1,7 +1,7 @@
 ### Hi there, I'm Navid or "Nav" for short - aka [nme22][website] 👋
 
-[![Website](https://img.shields.io/website?label=navfolio.vercel&style=for-the-badge&url=https%3A%2F%2Fnavfolio.vercel.app)](https://navfolio.vercel.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nme22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nme_22)
+[![Website]<img align="left" alt="twitter icon" width="22px" ssrc="https://api.iconify.design/akar-icons/globe-fill.svg?color=white" />](https://navfolio.vercel.app/)
+[![Twitter Follow]<img align="left" alt="twitter icon" width="22px" ssrc="https://api.iconify.design/akar-icons/twitter-fill.svg?color=blue" />](https://twitter.com/nme_22)
 
 ## I'm a Iranian Jr. Developer
 
@@ -24,7 +24,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
@@ -33,7 +32,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vercel" width="26px" src="https://api.iconify.design/akar-icons/vercel-fill.svg?color=white"/>
-
+<img align="left" alt="Vercel" width="26px" src="https://api.iconify.design/akar-icons/chakra-fill.svg?color=teal"/>
 <img align="left" alt="NextJS" width="26px" src="https://api.iconify.design/akar-icons/nextjs-fill.svg?color=white"  /> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
