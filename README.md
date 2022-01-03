@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [:globe_with_meridians:][website]
-[<img align="left" alt="nme_22 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nme_22 | Twitter" width="22px" src=" http://i.imgur.com/tXSoThF.png" />][twitter]
 [<img align="left" alt="Navid M Ebrahimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="navusss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
