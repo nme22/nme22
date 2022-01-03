@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="navfolio.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[:globe_with_meridians:][website]
 [<img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
 [<img align="left" alt="nme_22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
-[<img align="left" alt="Navid M Ebrahimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="navusss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Navid M Ebrahimi | LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="navusss | Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
 
 <br />
 
