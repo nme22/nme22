@@ -1,16 +1,19 @@
-### Hi there, I'm Navid or "Nav" for short - aka [nme22][website] 👋
+<h3 align="center"> Hi there, I'm Navid or "Nav" for short - aka [nme22]👋 </h3>
 
 [![Website](https://img.shields.io/website?label=navfolio.vercel&style=for-the-badge&url=https%3A%2F%2Fnavfolio.vercel.app)](https://navfolio.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nme22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nme_22)
 
-## I'm a Iranian Jr. Developer
+<h3 align="start">
+ I'm a Iranian Jr. Developer
 
 - 🌱 I’m currently learning frameworks like Chakra, Tailwind, and Next.js 🤣
 - 👯 I’m looking to collaborate with other content creators and dabble in open source
-- 🥅 2022 Goals: Contribute more to Open Source projects and land my first job in tech!
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer, snowboard, game, and code!
+ </h3>
 
-### Connect with me:
+<h3 align="start"> Connect with me:
+ </h3>
 
 [:globe_with_meridians:][website]
 [<img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
@@ -21,7 +24,7 @@
 <br />
 
 ### Languages and Tools:
-
+<h3 align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -36,6 +39,7 @@
 
 <img align="left" alt="NextJS" width="26px" src="https://api.iconify.design/akar-icons/nextjs-fill.svg?color=white"  /> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ </h3>
 
 <br />
 <br />
