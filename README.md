@@ -40,10 +40,16 @@
 <br />
 <br />
 
- <h3 align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nme22&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=dracula" />
-</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nme22)](https://github.com/nme22/github-readme-stats)
+<h3  align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nme22&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=dracula" />
+ <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nme22&layout=compact"]/>
+
+
+ </h3>
+
+
+
 
 <br />
 
