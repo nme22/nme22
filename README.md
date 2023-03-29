@@ -56,8 +56,6 @@
 
 <br />
 
-![Commit graph](https://activity-graph.herokuapp.com/graph?username=nme22&bg_color=1F222E&color=ffaaaa&line=F85D7F&point=FFFFFF)
-
 
 <!--
 **nme22/nme22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
