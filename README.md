@@ -1,8 +1,9 @@
-<h3 align="center"> Hi there, I'm Navid or "Nav" for short - aka [nme22]👋 </h3>
+<h3 align="center"> <strong>Salam, I'm Navid or "Nav" for short!</strong></h3>
+<div align="center"> <img alt="Manchester City" width= "116px" src="https://sportslogohistory.com/wp-content/uploads/2020/04/manchester_city_fc_1981-1997.png"/> </div>
 
 [![Website](https://img.shields.io/website?label=navfolio.vercel&style=for-the-badge&url=https%3A%2F%2Fnavfolio.vercel.app)](https://navfolio.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nme22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nme_22)
-<img alt="Manchester City" width= "26px" src="https://sportslogohistory.com/wp-content/uploads/2020/04/manchester_city_fc_1981-1997.png"/>
+
 
 <h3 align="start">
  I'm a Iranian Jr. Developer
@@ -11,7 +12,7 @@
 - 👾 I'm currently learning more about SQL, Tableau, and Python!
 - 👯 I’m looking to collaborate with other content creators and dabble in open source
 - 🥅 2024 Goals: Build more projects and get familiar with new languages/frameworks
-
+- ⚽️ Fun Fact: I'm a city fan 
  </h3> 
 
 <h3 align="start"> Connect with me:
