@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with other content creators and dabble in open source
 - 🥅 2024 Goals: Build more projects and get familiar with new languages/frameworks
 - <img alt="Manchester City" align="left" width= "26px" src="https://sportslogohistory.com/wp-content/uploads/2020/04/manchester_city_fc_1981-1997.png" /> Fun fact: I'm a city fan 
- </h3>
+ </h3> 
 
 <h3 align="start"> Connect with me:
  </h3>
