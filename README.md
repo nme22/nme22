@@ -6,10 +6,11 @@
 <h3 align="start">
  I'm a Iranian Jr. Developer
 
-- 🌱 I’m currently learning frameworks like Chakra, Tailwind, and Next.js 🤣
+- 🌱 I’m currently practicing with Next.js and Tailwind
+- 👾 I'm currently learning more about SQL, Tableau, and Python!
 - 👯 I’m looking to collaborate with other content creators and dabble in open source
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play soccer, snowboard, game, and code!
+- 🥅 2024 Goals: Build more projects and get familiar with new languages/frameworks
+- ⚡ Fun fact: I'm a city fan <img alt="Manchester City" src="https://sportslogohistory.com/wp-content/uploads/2020/04/manchester_city_fc_1981-1997.png" />
  </h3>
 
 <h3 align="start"> Connect with me:
