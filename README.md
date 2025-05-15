@@ -6,11 +6,11 @@
 
 
 <h3 align="start">
- I'm a Iranian Jr. Developer
+ I'm a Iranian Developer
 
-- 🌱 I’m currently practicing with Next.js and Tailwind
+- 🌱 I’m always practicing with Next.js and Tailwind
 - 👯 I’m looking to collaborate with other content creators and dabble in open source
-- 🥅 2024 Goals: Build more projects and get familiar with new languages/frameworks
+- 🥅 2025 Goals: Build more projects and get more familiar with third-party integrations
 - ⚽️ Fun Fact: I'm a city fan 
  </h3> 
 
